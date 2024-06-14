@@ -25,6 +25,7 @@ payload:
   - DOMAIN,clash.razord.top
   - DOMAIN,api.sleep.pokemon.co.jp
   - DOMAIN,mirror.ghproxy.com
-  
+  - DOMAIN,cdn.jsdelivr.net
+
 # PROCESS-NAME
 # - PROCESS-NAME,IMI Camera.exe
