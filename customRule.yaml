@@ -1,21 +1,21 @@
 payload:
-  - DOMAIN-KEYWORD,bing,DIRECT
-  - DOMAIN-KEYWORD,joyorigin,DIRECT
-  - DOMAIN-KEYWORD,adguard,DIRECT
-  - DOMAIN-KEYWORD,microsoft,DIRECT
-  - DOMAIN-KEYWORD,firebaseio,DIRECT
-  - DOMAIN-KEYWORD,edge,DIRECT
-  - DOMAIN-KEYWORD,yacd,DIRECT
-  - DOMAIN-KEYWORD,windows,DIRECT
-  - DOMAIN-KEYWORD,tapd,DIRECT
-  - DOMAIN-KEYWORD,weixinbridge,DIRECT
-  - DOMAIN-KEYWORD,tekqart,DIRECT
-  - DOMAIN-KEYWORD,atlassian,DIRECT 
-  - DOMAIN-KEYWORD,pokerogue,DIRECT
-  - DOMAIN-KEYWORD,unity3d,DIRECT
-  - DOMAIN-KEYWORD,jetbrains,DIRECT
+  - DOMAIN-KEYWORD,bing
+  - DOMAIN-KEYWORD,joyorigin
+  - DOMAIN-KEYWORD,adguard
+  - DOMAIN-KEYWORD,microsoft
+  - DOMAIN-KEYWORD,firebaseio
+  - DOMAIN-KEYWORD,edge
+  - DOMAIN-KEYWORD,yacd
+  - DOMAIN-KEYWORD,windows
+  - DOMAIN-KEYWORD,tapd
+  - DOMAIN-KEYWORD,weixinbridge
+  - DOMAIN-KEYWORD,tekqart
+  - DOMAIN-KEYWORD,atlassian
+  - DOMAIN-KEYWORD,pokerogue
+  - DOMAIN-KEYWORD,unity3d
+  - DOMAIN-KEYWORD,jetbrains
 
-  - DOMAIN,clash.razord.top,DIRECT
-  - DOMAIN,api.sleep.pokemon.co.jp,DIRECT    
+  - DOMAIN,clash.razord.top
+  - DOMAIN,api.sleep.pokemon.co.jp
   
-#  - PROCESS-NAME,IMI Camera.exe,DIRECT
+#  - PROCESS-NAME,IMI Camera.exe
