@@ -1,4 +1,5 @@
 payload:
+# DOMAIN-KEYWORD
   - DOMAIN-KEYWORD,bing
   - DOMAIN-KEYWORD,joyorigin
   - DOMAIN-KEYWORD,adguard
@@ -14,8 +15,16 @@ payload:
   - DOMAIN-KEYWORD,pokerogue
   - DOMAIN-KEYWORD,unity3d
   - DOMAIN-KEYWORD,jetbrains
+  - DOMAIN-KEYWORD,xboxlive
 
+# DOMAIN-SUFFIX
+  - DOMAIN-SUFFIX,ident.me
+  - DOMAIN-SUFFIX,iflow.work 
+
+# DOMAIN
   - DOMAIN,clash.razord.top
   - DOMAIN,api.sleep.pokemon.co.jp
+  - DOMAIN,mirror.ghproxy.com
   
-#  - PROCESS-NAME,IMI Camera.exe
+# PROCESS-NAME
+# - PROCESS-NAME,IMI Camera.exe
