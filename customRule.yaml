@@ -16,6 +16,7 @@ payload:
   - DOMAIN-KEYWORD,unity3d
   - DOMAIN-KEYWORD,jetbrains
   - DOMAIN-KEYWORD,xboxlive
+  - DOMAIN-KEYWORD,wps  
 
 # DOMAIN-SUFFIX
   - DOMAIN-SUFFIX,ident.me
