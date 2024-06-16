@@ -17,7 +17,8 @@ payload:
   - DOMAIN-KEYWORD,jetbrains
   - DOMAIN-KEYWORD,xboxlive
   - DOMAIN-KEYWORD,wps  
-  - DOMAIN-KEYWORD,immersivetranslate    
+  - DOMAIN-KEYWORD,immersivetranslate
+  - DOMAIN-KEYWORD,razer
   
 # DOMAIN-SUFFIX
   - DOMAIN-SUFFIX,ident.me
