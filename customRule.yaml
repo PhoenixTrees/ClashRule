@@ -19,7 +19,9 @@ payload:
   - DOMAIN-KEYWORD,wps  
   - DOMAIN-KEYWORD,immersivetranslate
   - DOMAIN-KEYWORD,razer
-  
+  - DOMAIN-KEYWORD,visualstudio
+  - DOMAIN-KEYWORD,vscode
+
 # DOMAIN-SUFFIX
   - DOMAIN-SUFFIX,ident.me
   - DOMAIN-SUFFIX,iflow.work 
@@ -30,6 +32,9 @@ payload:
   - DOMAIN,mirror.ghproxy.com
   - DOMAIN,cdn.jsdelivr.net
   - DOMAIN,cdn.anti-ad.net
-  	
+  - DOMAIN,www.hifini.com
+  - DOMAIN,weather-server.allawnos.com
+  - DOMAIN,pks.raenonx.cc
+
 # PROCESS-NAME
 # - PROCESS-NAME,IMI Camera.exe
