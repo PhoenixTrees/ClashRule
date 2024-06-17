@@ -25,6 +25,9 @@ payload:
 # DOMAIN-SUFFIX
   - DOMAIN-SUFFIX,ident.me
   - DOMAIN-SUFFIX,iflow.work 
+  - DOMAIN-SUFFIX,html-load.com
+  - DOMAIN-SUFFIX,raenonx.cc
+  
 
 # DOMAIN
   - DOMAIN,clash.razord.top
@@ -34,7 +37,6 @@ payload:
   - DOMAIN,cdn.anti-ad.net
   - DOMAIN,www.hifini.com
   - DOMAIN,weather-server.allawnos.com
-  - DOMAIN,pks.raenonx.cc
-
+  
 # PROCESS-NAME
 # - PROCESS-NAME,IMI Camera.exe
