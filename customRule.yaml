@@ -37,6 +37,7 @@ payload:
   - DOMAIN,cdn.anti-ad.net
   - DOMAIN,www.hifini.com
   - DOMAIN,weather-server.allawnos.com
+  - DOMAIN,thepiratebay.party
   
 # PROCESS-NAME
 # - PROCESS-NAME,IMI Camera.exe
