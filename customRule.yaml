@@ -21,6 +21,7 @@ payload:
   - DOMAIN-KEYWORD,razer
   - DOMAIN-KEYWORD,visualstudio
   - DOMAIN-KEYWORD,vscode
+  - DOMAIN-KEYWORD,msn
 
 # DOMAIN-SUFFIX
   - DOMAIN-SUFFIX,ident.me
