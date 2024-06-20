@@ -42,4 +42,4 @@ payload:
   - DOMAIN,thepiratebay.party
   
 # PROCESS-NAME
-# - PROCESS-NAME,IMI Camera.exe
+ - PROCESS-NAME,smartdns.exe
