@@ -30,6 +30,7 @@ payload:
   - DOMAIN-SUFFIX,html-load.com
   - DOMAIN-SUFFIX,raenonx.cc
   - DOMAIN-SUFFIX,skk.moe
+  - DOMAIN-SUFFIX,weiyun.com
   
 # DOMAIN
   - DOMAIN,clash.razord.top
