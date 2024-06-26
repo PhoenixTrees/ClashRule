@@ -41,6 +41,7 @@ payload:
   - DOMAIN,weather-server.allawnos.com
   - DOMAIN,thepiratebay.party
   - DOMAIN,wiki.metacubex.one
+  - DOMAIN,ip.900cha.com
   
 # PROCESS-NAME
  - PROCESS-NAME,smartdns.exe
