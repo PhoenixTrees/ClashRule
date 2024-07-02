@@ -22,7 +22,6 @@ payload:
   - DOMAIN-KEYWORD,visualstudio
   - DOMAIN-KEYWORD,vscode
   - DOMAIN-KEYWORD,msn
-  - DOMAIN-KEYWORD,dns
 
 # DOMAIN-SUFFIX
   - DOMAIN-SUFFIX,ident.me
@@ -48,5 +47,5 @@ payload:
   - DOMAIN,cn.gravatar.com
   
 # PROCESS-NAME
- - PROCESS-NAME,smartdns.exe
+ # - PROCESS-NAME,smartdns.exe
  	
