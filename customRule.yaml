@@ -31,6 +31,9 @@ payload:
   - DOMAIN-SUFFIX,skk.moe
   - DOMAIN-SUFFIX,weiyun.com
   - DOMAIN-SUFFIX,ea.com
+  - DOMAIN-SUFFIX,battlelog.com
+  - DOMAIN-SUFFIX,gvt3.com
+  
   - DOMAIN-SUFFIX,mirror.jellyfin.org
   
 # DOMAIN
