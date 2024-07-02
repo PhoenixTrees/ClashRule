@@ -45,6 +45,8 @@ payload:
   - DOMAIN,thepiratebay.party
   - DOMAIN,wiki.metacubex.one
   - DOMAIN,ip.900cha.com
+  - DOMAIN,cn.gravatar.com
   
 # PROCESS-NAME
  - PROCESS-NAME,smartdns.exe
+ 	
