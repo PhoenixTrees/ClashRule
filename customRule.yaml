@@ -31,6 +31,8 @@ payload:
   - DOMAIN-SUFFIX,raenonx.cc
   - DOMAIN-SUFFIX,skk.moe
   - DOMAIN-SUFFIX,weiyun.com
+  - DOMAIN-SUFFIX,ea.com
+  - DOMAIN-SUFFIX,mirror.jellyfin.org
   
 # DOMAIN
   - DOMAIN,clash.razord.top
