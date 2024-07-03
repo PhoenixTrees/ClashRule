@@ -22,6 +22,7 @@ payload:
   - DOMAIN-KEYWORD,visualstudio
   - DOMAIN-KEYWORD,vscode
   - DOMAIN-KEYWORD,msn
+  - DOMAIN-KEYWORD,glados
 
 # DOMAIN-SUFFIX
   - DOMAIN-SUFFIX,ident.me
@@ -33,8 +34,8 @@ payload:
   - DOMAIN-SUFFIX,ea.com
   - DOMAIN-SUFFIX,battlelog.com
   - DOMAIN-SUFFIX,gvt3.com
-  
   - DOMAIN-SUFFIX,mirror.jellyfin.org
+  - DOMAIN-SUFFIX,chatra.io
   
 # DOMAIN
   - DOMAIN,clash.razord.top
