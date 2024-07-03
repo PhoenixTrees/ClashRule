@@ -5,7 +5,6 @@ payload:
   - DOMAIN-KEYWORD,adguard
   - DOMAIN-KEYWORD,microsoft
   - DOMAIN-KEYWORD,firebaseio
-  - DOMAIN-KEYWORD,edge
   - DOMAIN-KEYWORD,yacd
   - DOMAIN-KEYWORD,windows
   - DOMAIN-KEYWORD,tapd
