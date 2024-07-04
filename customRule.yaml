@@ -49,6 +49,7 @@ payload:
   - DOMAIN,ip.900cha.com
   - DOMAIN,cn.gravatar.com
   - DOMAIN,default.exp-tas.com
+  - DOMAIN,anti-ad.net
   
 # PROCESS-NAME
  # - PROCESS-NAME,smartdns.exe
