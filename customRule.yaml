@@ -34,6 +34,7 @@ payload:
   - DOMAIN-SUFFIX,battlelog.com
   - DOMAIN-SUFFIX,mirror.jellyfin.org
   - DOMAIN-SUFFIX,chatra.io
+  - DOMAIN-SUFFIX,msecnd.net
   
 # DOMAIN
   - DOMAIN,clash.razord.top
