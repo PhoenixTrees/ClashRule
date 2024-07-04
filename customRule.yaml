@@ -48,6 +48,7 @@ payload:
   - DOMAIN,wiki.metacubex.one
   - DOMAIN,ip.900cha.com
   - DOMAIN,cn.gravatar.com
+  - DOMAIN,default.exp-tas.com
   
 # PROCESS-NAME
  # - PROCESS-NAME,smartdns.exe
