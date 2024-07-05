@@ -35,6 +35,7 @@ payload:
   - DOMAIN-SUFFIX,mirror.jellyfin.org
   - DOMAIN-SUFFIX,chatra.io
   - DOMAIN-SUFFIX,msecnd.net
+  - DOMAIN-SUFFIX,epicgames.com
   
 # DOMAIN
   - DOMAIN,clash.razord.top
