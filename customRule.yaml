@@ -52,6 +52,7 @@ payload:
   - DOMAIN,cn.gravatar.com
   - DOMAIN,default.exp-tas.com
   - DOMAIN,anti-ad.net
+  - DOMAIN,api.keygen.sh
   
 # PROCESS-NAME
  # - PROCESS-NAME,smartdns.exe
