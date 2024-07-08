@@ -1,0 +1,12 @@
+payload:
+# DOMAIN-KEYWORD
+  - DOMAIN-KEYWORD,download
+
+# DOMAIN-SUFFIX
+#  - DOMAIN-SUFFIX,ident.me
+
+# DOMAIN
+  - DOMAIN,objects.githubusercontent.com
+
+# PROCESS-NAME
+ # - PROCESS-NAME,smartdns.exe
