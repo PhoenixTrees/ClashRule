@@ -36,6 +36,7 @@ payload:
   - DOMAIN-SUFFIX,chatra.io
   - DOMAIN-SUFFIX,msecnd.net
   - DOMAIN-SUFFIX,epicgames.com
+  - DOMAIN-SUFFIX,cloudflarestorage.com
   
 # DOMAIN
   - DOMAIN,clash.razord.top
