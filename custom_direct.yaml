@@ -53,6 +53,7 @@ payload:
   - DOMAIN,default.exp-tas.com
   - DOMAIN,anti-ad.net
   - DOMAIN,api.keygen.sh
+  - DOMAIN,objects.githubusercontent.com
   
 # PROCESS-NAME
  # - PROCESS-NAME,smartdns.exe
