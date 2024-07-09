@@ -37,10 +37,10 @@ payload:
   - DOMAIN-SUFFIX,msecnd.net
   - DOMAIN-SUFFIX,epicgames.com
   - DOMAIN-SUFFIX,cloudflarestorage.com
+  - DOMAIN-SUFFIX,sleep.pokemon.co.jp
   
 # DOMAIN
   - DOMAIN,clash.razord.top
-  - DOMAIN,api.sleep.pokemon.co.jp
   - DOMAIN,mirror.ghproxy.com
   - DOMAIN,cdn.jsdelivr.net
   - DOMAIN,cdn.anti-ad.net
