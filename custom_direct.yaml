@@ -41,6 +41,7 @@ payload:
   - DOMAIN-SUFFIX,tmdb.org
   - DOMAIN-SUFFIX,themoviedb.org
   - DOMAIN-SUFFIX,bgm.tv
+  - DOMAIN-SUFFIX,6bt0.com
   
 # DOMAIN
   - DOMAIN,clash.razord.top
