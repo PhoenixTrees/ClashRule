@@ -1,6 +1,7 @@
 payload:
 # DOMAIN-KEYWORD
   - DOMAIN-KEYWORD,download
+  - DOMAIN-KEYWORD,nintendo
 
 # DOMAIN-SUFFIX
 #  - DOMAIN-SUFFIX,ident.me
