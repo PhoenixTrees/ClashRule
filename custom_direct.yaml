@@ -58,7 +58,8 @@ payload:
   - DOMAIN,anti-ad.net
   - DOMAIN,api.keygen.sh
   - DOMAIN,objects.githubusercontent.com
-  
+  - DOMAIN,www.hello-algo.com
+  - DOMAIN,giscus.app
 # PROCESS-NAME
  # - PROCESS-NAME,smartdns.exe
  	
