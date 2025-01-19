@@ -22,6 +22,7 @@ payload:
   - DOMAIN-KEYWORD,vscode
   - DOMAIN-KEYWORD,msn
   - DOMAIN-KEYWORD,glados
+  - DOMAIN-KEYWORD,south-plus
 
 # DOMAIN-SUFFIX
   - DOMAIN-SUFFIX,ident.me
