@@ -43,6 +43,7 @@ payload:
   - DOMAIN-SUFFIX,themoviedb.org
   - DOMAIN-SUFFIX,bgm.tv
   - DOMAIN-SUFFIX,6bt0.com
+  - DOMAIN-SUFFIX,amd.com
   
 # DOMAIN
   - DOMAIN,clash.razord.top
