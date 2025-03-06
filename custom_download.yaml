@@ -8,6 +8,8 @@ payload:
 
 # DOMAIN
  # - DOMAIN,objects.githubusercontent.com
+ - DOMAIN,downloads.marketplace.jetbrains.com
+ 	
 
 # PROCESS-NAME
  # - PROCESS-NAME,smartdns.exe
