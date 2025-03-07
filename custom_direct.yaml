@@ -23,6 +23,17 @@ payload:
   - DOMAIN-KEYWORD,msn
   - DOMAIN-KEYWORD,glados
   - DOMAIN-KEYWORD,south-plus
+  - DOMAIN-KEYWORD,mh.alcedo.site
+  - DOMAIN-KEYWORD,ubisoft
+  - DOMAIN-KEYWORD,ubiservices
+  - DOMAIN-KEYWORD,iill.top
+  - DOMAIN-KEYWORD,test-ipv6
+  - DOMAIN-KEYWORD,cursor
+  - DOMAIN-KEYWORD,monsterhunter
+  - DOMAIN-KEYWORD,msftncsi
+  - DOMAIN-KEYWORD,wilds-prod-hunter
+  - DOMAIN-KEYWORD,playfabapi
+  - DOMAIN-KEYWORD,capcom
 
 # DOMAIN-SUFFIX
   - DOMAIN-SUFFIX,ident.me
