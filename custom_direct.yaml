@@ -34,6 +34,7 @@ payload:
   - DOMAIN-KEYWORD,wilds-prod-hunter
   - DOMAIN-KEYWORD,playfabapi
   - DOMAIN-KEYWORD,capcom
+  - DOMAIN-KEYWORD,leobog
 
 # DOMAIN-SUFFIX
   - DOMAIN-SUFFIX,ident.me
