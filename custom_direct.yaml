@@ -35,7 +35,7 @@ payload:
   - DOMAIN-KEYWORD,playfabapi
   - DOMAIN-KEYWORD,capcom
   - DOMAIN-KEYWORD,leobog
-
+  
 # DOMAIN-SUFFIX
   - DOMAIN-SUFFIX,ident.me
   - DOMAIN-SUFFIX,iflow.work 
@@ -56,6 +56,7 @@ payload:
   - DOMAIN-SUFFIX,bgm.tv
   - DOMAIN-SUFFIX,6bt0.com
   - DOMAIN-SUFFIX,amd.com
+  - DOMAIN-SUFFIX,ubi.com
   
 # DOMAIN
   - DOMAIN,clash.razord.top
