@@ -57,6 +57,7 @@ payload:
   - DOMAIN-SUFFIX,6bt0.com
   - DOMAIN-SUFFIX,amd.com
   - DOMAIN-SUFFIX,ubi.com
+  - DOMAIN-SUFFIX,pki.goog
   
 # DOMAIN
   - DOMAIN,clash.razord.top
