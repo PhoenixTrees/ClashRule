@@ -35,7 +35,8 @@ payload:
   - DOMAIN-KEYWORD,playfabapi
   - DOMAIN-KEYWORD,capcom
   - DOMAIN-KEYWORD,leobog
-  - DOMAIN-KEYWORD,yhdm5  
+  - DOMAIN-KEYWORD,yhdm5
+  - DOMAIN-KEYWORD,tpvod
   
 # DOMAIN-SUFFIX
   - DOMAIN-SUFFIX,ident.me
