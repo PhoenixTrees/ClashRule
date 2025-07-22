@@ -38,6 +38,9 @@ payload:
   - DOMAIN-KEYWORD,yhdm5
   - DOMAIN-KEYWORD,tpvod
   - DOMAIN-KEYWORD,juijx
+  - DOMAIN-KEYWORD,cdprojektred
+  - DOMAIN-KEYWORD,cdpred
+  
   
 # DOMAIN-SUFFIX
   - DOMAIN-SUFFIX,ident.me
@@ -62,6 +65,7 @@ payload:
   - DOMAIN-SUFFIX,ubi.com
   - DOMAIN-SUFFIX,pki.goog
   - DOMAIN-SUFFIX,juij.fun
+  - DOMAIN-SUFFIX,gog.com
   
 # DOMAIN
   - DOMAIN,clash.razord.top
