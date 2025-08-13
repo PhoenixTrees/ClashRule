@@ -67,6 +67,7 @@ payload:
   - DOMAIN-SUFFIX,pki.goog
   - DOMAIN-SUFFIX,juij.fun
   - DOMAIN-SUFFIX,gog.com
+  - DOMAIN-SUFFIX,msi.com
   
 # DOMAIN
   - DOMAIN,clash.razord.top
