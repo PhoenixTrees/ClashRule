@@ -68,6 +68,7 @@ payload:
   - DOMAIN-SUFFIX,juij.fun
   - DOMAIN-SUFFIX,gog.com
   - DOMAIN-SUFFIX,msi.com
+  - DOMAIN-SUFFIX,wiki.gg
   
 # DOMAIN
   - DOMAIN,clash.razord.top
