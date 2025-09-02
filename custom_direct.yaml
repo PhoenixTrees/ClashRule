@@ -87,6 +87,7 @@ payload:
   - DOMAIN,www.hello-algo.com
   - DOMAIN,giscus.app
   - DOMAIN,static.adtidy.org
+  - DOMAIN,ecs.office.com
 # PROCESS-NAME
  # - PROCESS-NAME,smartdns.exe
  	
