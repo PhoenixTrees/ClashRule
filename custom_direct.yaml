@@ -40,7 +40,11 @@ payload:
   - DOMAIN-KEYWORD,cdprojektred
   - DOMAIN-KEYWORD,cdpred
   - DOMAIN-KEYWORD,gigabyte
-  
+  - DOMAIN-KEYWORD,qiushu
+  - DOMAIN-KEYWORD,mayiwsk
+  - DOMAIN-KEYWORD,gashuw
+  - DOMAIN-KEYWORD,mayitxt
+  - DOMAIN-KEYWORD,zwduxs
   
 # DOMAIN-SUFFIX
   - DOMAIN-SUFFIX,ident.me
@@ -69,7 +73,6 @@ payload:
   - DOMAIN-SUFFIX,msi.com
   - DOMAIN-SUFFIX,wiki.gg
   - DOMAIN-SUFFIX,nvidia.com 
-  - DOMAIN-SUFFIX,mayiwsk.com
 # DOMAIN
   - DOMAIN,clash.razord.top
   - DOMAIN,mirror.ghproxy.com
