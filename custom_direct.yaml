@@ -68,6 +68,8 @@ payload:
   - DOMAIN-SUFFIX,msi.com
   - DOMAIN-SUFFIX,wiki.gg
   - DOMAIN-SUFFIX,nvidia.com 
+  - DOMAIN-SUFFIX,adtidy.org
+  
 # DOMAIN
   - DOMAIN,clash.razord.top
   - DOMAIN,mirror.ghproxy.com
@@ -84,9 +86,9 @@ payload:
   - DOMAIN,objects.githubusercontent.com
   - DOMAIN,www.hello-algo.com
   - DOMAIN,giscus.app
-  - DOMAIN,static.adtidy.org
   - DOMAIN,ecs.office.com
-
+  - DOMAIN,cdn.jsdelivr.net
+ 
 # 小说
   - DOMAIN-KEYWORD,qiushu
   - DOMAIN-KEYWORD,mayiwsk
