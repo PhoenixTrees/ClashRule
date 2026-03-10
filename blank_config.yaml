@@ -1,0 +1,14 @@
+port: 7899
+socks-port: 7898
+redir-port: 0
+tproxy-port: 0
+allow-lan: true
+bind-address: "*"
+mode: rule
+log-level: info
+external-controller: 127.0.0.1:9097
+
+proxies: null
+proxy-groups: null
+rules:
+  - MATCH,DIRECT
