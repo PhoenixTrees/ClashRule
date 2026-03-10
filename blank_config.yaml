@@ -8,7 +8,15 @@ mode: rule
 log-level: info
 external-controller: 127.0.0.1:9097
 
-proxies: null
-proxy-groups: null
+proxies: 
+  - name: 自用模板
+    type: ss
+    server: xxx
+    port: 2377
+proxy-groups: 
+  - name: 空白模板
+    type: "select"
+    proxies:
+      - DIRECT
 rules:
   - MATCH,DIRECT
