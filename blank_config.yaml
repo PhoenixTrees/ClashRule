@@ -9,12 +9,11 @@ log-level: info
 external-controller: 127.0.0.1:9097
 
 proxies: 
-  - name: 自用模板
-    type: ss
-    server: xxx
-    port: 2377
+  - name: "直连"
+    type: direct
+    udp: true
 proxy-groups: 
-  - name: 空白模板
+  - name: 空白配置
     type: "select"
     proxies:
       - DIRECT
