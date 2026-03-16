@@ -17,5 +17,105 @@ proxy-groups:
     type: "select"
     proxies:
       - DIRECT
+      
+rule-providers:
+  reject:
+    type: http
+    behavior: domain
+    url: "https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/reject.txt"
+    path: ./ruleset/reject.yaml
+    interval: 86400
+
+  icloud:
+    type: http
+    behavior: domain
+    url: "https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/icloud.txt"
+    path: ./ruleset/icloud.yaml
+    interval: 86400
+
+  apple:
+    type: http
+    behavior: domain
+    url: "https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/apple.txt"
+    path: ./ruleset/apple.yaml
+    interval: 86400
+
+  direct:
+    type: http
+    behavior: domain
+    url: "https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/direct.txt"
+    path: ./ruleset/direct.yaml
+    interval: 86400
+
+  private:
+    type: http
+    behavior: domain
+    url: "https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/private.txt"
+    path: ./ruleset/private.yaml
+    interval: 86400
+
+  cncidr:
+    type: http
+    behavior: ipcidr
+    url: "https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/cncidr.txt"
+    path: ./ruleset/cncidr.yaml
+    interval: 86400
+
+  lancidr:
+    type: http
+    behavior: ipcidr
+    url: "https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/lancidr.txt"
+    path: ./ruleset/lancidr.yaml
+    interval: 86400
+
+  applications:
+    type: http
+    behavior: classical
+    url: "https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/applications.txt"
+    path: ./ruleset/applications.yaml
+    interval: 86400
+
+  custom-direct:
+    type: http
+    behavior: classical
+    url: "https://raw.githubusercontent.com/PhoenixTrees/ClashRule/main/custom_direct.yaml"
+    path: ./ruleset/custom-direct.yaml
+    interval: 86400
+
+  custom-download:
+    type: http
+    behavior: classical
+    url: "https://raw.githubusercontent.com/PhoenixTrees/ClashRule/main/custom_download.yaml"
+    path: ./ruleset/custom-download.yaml
+    interval: 86400
+  
+
+  anti-ad:
+    type: http
+    behavior: domain
+    url: "https://anti-ad.net/clash.yaml"
+    path: ./ruleset/anti-ad.yaml
+    interval: 86400  
+
+  special:
+    type: http
+    behavior: classical
+    url: "https://raw.githubusercontent.com/dler-io/Rules/main/Clash/Provider/Special.yaml"
+    path: ./ruleset/special.yaml
+    interval: 86400
+
 rules:
-  - MATCH,DIRECT
+  - 'RULE-SET,custom-direct,DIRECT'
+  - 'RULE-SET,applications,DIRECT'
+  - 'RULE-SET,private,DIRECT'
+  - 'RULE-SET,special,DIRECT'
+  - 'RULE-SET,icloud,DIRECT'
+  - 'RULE-SET,apple,DIRECT'
+  - 'RULE-SET,direct,DIRECT'
+  - 'RULE-SET,lancidr,DIRECT'
+  - 'RULE-SET,cncidr,DIRECT'
+  - 'GEOIP,LAN,DIRECT,no-resolve'
+  - 'GEOIP,CN,DIRECT,no-resolve'
+  - 'DST-PORT,80, Proxy'
+  - 'DST-PORT,443, Proxy'
+  - 'MATCH,DIRECT'
