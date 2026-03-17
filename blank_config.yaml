@@ -19,6 +19,13 @@ proxy-groups:
       - DIRECT
       
 rule-providers:
+  proxy:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/proxy.txt
+    path: ./ruleset/reject.yaml
+    interval: 86400
+    
   reject:
     type: http
     behavior: domain
@@ -114,6 +121,7 @@ rules:
   - 'RULE-SET,direct,DIRECT'
   - 'RULE-SET,lancidr,DIRECT'
   - 'RULE-SET,cncidr,DIRECT'
+  - 'RULE-SET,proxy,Proxy'
   - 'GEOIP,LAN,DIRECT,no-resolve'
   - 'GEOIP,CN,DIRECT,no-resolve'
   - 'DST-PORT,80, Proxy'
