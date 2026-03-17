@@ -23,7 +23,7 @@ rule-providers:
     type: http
     behavior: domain
     url: https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/proxy.txt
-    path: ./ruleset/reject.yaml
+    path: ./ruleset/proxy.yaml
     interval: 86400
     
   reject:
