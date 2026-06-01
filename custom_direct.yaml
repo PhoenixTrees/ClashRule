@@ -67,6 +67,7 @@ payload:
   - DOMAIN-SUFFIX,msi.com
   - DOMAIN-SUFFIX,wiki.gg
   - DOMAIN-SUFFIX,nvidia.com 
+  - DOMAIN-SUFFIX,laojuji.com
 # DOMAIN
   - DOMAIN,clash.razord.top
   - DOMAIN,mirror.ghproxy.com
@@ -85,7 +86,6 @@ payload:
   - DOMAIN,giscus.app
   - DOMAIN,static.adtidy.org
   - DOMAIN,ecs.office.com
-  - DOMAIN,laojuji.com
 
 # 小说
   - DOMAIN-KEYWORD,qiushu
