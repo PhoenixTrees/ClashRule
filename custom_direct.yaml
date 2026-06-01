@@ -85,6 +85,7 @@ payload:
   - DOMAIN,giscus.app
   - DOMAIN,static.adtidy.org
   - DOMAIN,ecs.office.com
+  - DOMAIN,laojuji.com
 
 # 小说
   - DOMAIN-KEYWORD,qiushu
