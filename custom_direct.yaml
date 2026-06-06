@@ -86,7 +86,8 @@ payload:
   - DOMAIN,giscus.app
   - DOMAIN,static.adtidy.org
   - DOMAIN,ecs.office.com
-
+  - DOMAIN,twg.kakaocdn.net
+  
 # 小说
   - DOMAIN-KEYWORD,qiushu
   - DOMAIN-KEYWORD,mayiwsk
