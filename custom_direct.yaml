@@ -42,6 +42,7 @@ payload:
   
 # DOMAIN-SUFFIX
   - DOMAIN-SUFFIX,ident.me
+  - DOMAIN-SUFFIX,tnedi.me
   - DOMAIN-SUFFIX,iflow.work 
   - DOMAIN-SUFFIX,html-load.com
   - DOMAIN-SUFFIX,raenonx.cc
