@@ -38,7 +38,8 @@ payload:
   - DOMAIN-KEYWORD,cdprojektred
   - DOMAIN-KEYWORD,cdpred
   - DOMAIN-KEYWORD,gigabyte
-  - DOMAIN-KEYWORD,launchdarkly  
+  - DOMAIN-KEYWORD,launchdarkly
+  - DOMAIN-KEYWORD,glados
   
 # DOMAIN-SUFFIX
   - DOMAIN-SUFFIX,ident.me
