@@ -93,6 +93,7 @@ payload:
   - DOMAIN,ecs.office.com
   - DOMAIN,twg.kakaocdn.net
   - DOMAIN,api.ip.sb
+  - DOMAIN,nyc.1271428959.workers.dev
   
 # 小说
   - DOMAIN-KEYWORD,qiushu
