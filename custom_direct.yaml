@@ -40,6 +40,8 @@ payload:
   - DOMAIN-KEYWORD,gigabyte
   - DOMAIN-KEYWORD,launchdarkly
   - DOMAIN-KEYWORD,glados
+  - DOMAIN-KEYWORD,jsdelivr
+  - DOMAIN-KEYWORD,gh-proxy
   
 # DOMAIN-SUFFIX
   - DOMAIN-SUFFIX,ident.me
@@ -71,12 +73,10 @@ payload:
   - DOMAIN-SUFFIX,nvidia.com 
   - DOMAIN-SUFFIX,laojuji.com
   - DOMAIN-SUFFIX,ghfast.top
-  - DOMAIN-SUFFIX,gh-proxy.org
 
 # DOMAIN
   - DOMAIN,clash.razord.top
   - DOMAIN,mirror.ghproxy.com
-  - DOMAIN,cdn.jsdelivr.net
   - DOMAIN,cdn.anti-ad.net
   - DOMAIN,www.hifini.com
   - DOMAIN,weather-server.allawnos.com
