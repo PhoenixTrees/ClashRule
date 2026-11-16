@@ -3,8 +3,12 @@ payload:
   - DOMAIN-KEYWORD,download
  # - DOMAIN-KEYWORD,nintendo
 
-# DOMAIN-SUFFIX
-#  - DOMAIN-SUFFIX,ident.me
+# DOMAIN-SUFFIX —— 实测无法直连、需要走代理的大文件分发 / 模型权重站点
+  - DOMAIN-SUFFIX,huggingface.co
+  - DOMAIN-SUFFIX,hf.co
+  - DOMAIN-SUFFIX,civitai.com
+  - DOMAIN-SUFFIX,kaggle.com
+  - DOMAIN-SUFFIX,ollama.com
 
 # DOMAIN
  # - DOMAIN,objects.githubusercontent.com
