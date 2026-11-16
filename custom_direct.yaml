@@ -74,6 +74,15 @@ payload:
   - DOMAIN-SUFFIX,laojuji.com
   - DOMAIN-SUFFIX,ghfast.top
 
+# ── 2026-11-16 分流审计：实测可直连且明显更快（延迟为 Clash DIRECT 出站实测）──
+# Let's Encrypt / Amazon / SSL.com 的 CRL·OCSP：高频小请求，直连 152–403ms
+  - DOMAIN-SUFFIX,lencr.org
+  - DOMAIN-SUFFIX,amazontrust.com
+  - DOMAIN-SUFFIX,ssl.com
+# AdGuard 过滤器更新：直连 693ms vs 代理 2332ms
+  - DOMAIN-SUFFIX,adtidy.org
+  - DOMAIN-SUFFIX,nousresearch.github.io
+
 # DOMAIN
   - DOMAIN,clash.razord.top
   - DOMAIN,mirror.ghproxy.com
@@ -94,6 +103,9 @@ payload:
   - DOMAIN,twg.kakaocdn.net
   - DOMAIN,api.ip.sb
   - DOMAIN,nyc.1271428959.workers.dev
+# api.github.com 直连 110ms vs 代理 457ms；hermes 文档站直连 89ms vs 代理 141ms
+  - DOMAIN,api.github.com
+  - DOMAIN,hermes-agent.nousresearch.com
   
 # 小说
   - DOMAIN-KEYWORD,qiushu
