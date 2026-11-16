@@ -1,17 +1,9 @@
 payload:
-# DOMAIN-KEYWORD
-  - DOMAIN-KEYWORD,download
- # - DOMAIN-KEYWORD,nintendo
-
 # DOMAIN-SUFFIX —— 实测无法直连、需要走代理的大文件分发 / 模型权重站点
+# 注意：本规则集会被 [YAML] 覆写模块前置到 rules 最前面，
+#       因此只放具体域名，不要用 DOMAIN-KEYWORD 这类宽匹配（会误伤 download.microsoft.com 等）。
   - DOMAIN-SUFFIX,huggingface.co
   - DOMAIN-SUFFIX,hf.co
   - DOMAIN-SUFFIX,civitai.com
   - DOMAIN-SUFFIX,kaggle.com
   - DOMAIN-SUFFIX,ollama.com
-
-# DOMAIN
- # - DOMAIN,objects.githubusercontent.com
-
-# PROCESS-NAME
- # - PROCESS-NAME,smartdns.exe
