@@ -103,8 +103,6 @@ payload:
   - DOMAIN,twg.kakaocdn.net
   - DOMAIN,api.ip.sb
   - DOMAIN,nyc.1271428959.workers.dev
-# api.github.com 直连 110ms vs 代理 457ms；hermes 文档站直连 89ms vs 代理 141ms
-  - DOMAIN,api.github.com
   - DOMAIN,hermes-agent.nousresearch.com
   
 # 小说
