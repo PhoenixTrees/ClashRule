@@ -277,3 +277,19 @@ payload:
   - DOMAIN,www.yuedu.info
   - DOMAIN,m.biquai.cc
   - DOMAIN,www.lrxsw.org
+
+# ── 2026-11-23 能直连就直连：Clash DIRECT 出站连续 3 轮实测全通，且比现代理快 49–513ms（或代理不可达）──
+# 微软 Edge 网络（遥测/更新 CDN，国内有微软落地节点，21 个子域实测 53–114ms）
+  - DOMAIN-SUFFIX,msedge.net
+# 以下逐域名加入，不用整后缀，避免影响 office.com / live.com 主站登录走代理
+  - DOMAIN,consent.config.office.com
+  - DOMAIN,substrate.office.com
+  - DOMAIN,odc.officeapps.live.com
+  - DOMAIN,management.azure.com
+  - DOMAIN,fp-afd.azurefd.net
+  - DOMAIN,fp-afd-nocache.azureedge.net
+  - DOMAIN,images.ctfassets.net
+  - DOMAIN,production.cloudfront.docker.com
+  - DOMAIN,public.games.geforce.com
+  - DOMAIN,checkout.airwallex.com
+  - DOMAIN,perplexity-gateway.nousresearch.com
