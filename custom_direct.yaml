@@ -42,7 +42,7 @@ payload:
   - DOMAIN-KEYWORD,glados
   - DOMAIN-KEYWORD,jsdelivr
   - DOMAIN-KEYWORD,gh-proxy
-  - DOMAIN-KEYWORD,qwen  
+  - DOMAIN-KEYWORD,qwen
   
 # DOMAIN-SUFFIX
   - DOMAIN-SUFFIX,ident.me
